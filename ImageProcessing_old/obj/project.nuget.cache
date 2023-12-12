@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYC2zYS2HH2KubzZLtkRa2KBtUHYer+i3PRZy0F6GzPZ1HgNxsh9f00WJAuSxARFBIeLriLOgCPBYJBruSjNlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dusti\\Desktop\\ImageProcessing\\ImageProcessing\\ImageProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dusti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dusti\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dusti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dusti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
