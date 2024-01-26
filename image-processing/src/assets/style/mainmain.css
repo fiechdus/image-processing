@@ -1,0 +1,6 @@
+@import './basebase.css';
+
+
+html {
+    background-color: var(--color-antiflashwhite);
+}

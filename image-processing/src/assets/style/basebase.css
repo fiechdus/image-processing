@@ -1,0 +1,18 @@
+:root {
+    /* source for color palette: https://coolors.co/14110f-34312d-7e7f83-d9c5b2-f3f3f4 */
+    --color-smokeyblack: #14110F;
+    --color-jet: #34312D;
+    --color-gray: #7E7F83;
+    --color-dun: #D9C5B2;
+    --color-antiflashwhite: #F3F3F4;
+}
+
+@font-face {
+    font-family: JosefinSans;
+    src: url(../fonts/JosefinSans-VariableFont_wght.ttf);
+  }
+
+@font-face {
+    font-family: TitilliumRegular;
+    src: url(../fonts/TitilliumWeb-Regular.ttf);
+}
